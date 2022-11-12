@@ -1,8 +1,9 @@
-@keyframes gif{
-	from{
+@keyframes gif {
+	from {
 		margin-top: 150px;
 	}
-	to{
+
+	to {
 		margin-top: 100px;
 	}
 }
